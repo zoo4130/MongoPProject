@@ -157,7 +157,7 @@ $(function(){
 		<option value="11110">종로구</option>
 		<option value="11140">중구</option>
 		<option value="11170">용산구</option>
-		<option value="11l230">동대문구</option>
+		<option value="11230">동대문구</option>
 		<option value="11260">중랑구</option>
 		<option value="11290">성북구</option>
 		<option value="11320">도봉구</option>
