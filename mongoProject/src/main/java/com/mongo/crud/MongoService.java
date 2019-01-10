@@ -58,10 +58,10 @@ public class MongoService {
 		 * 		}
 		 * 	}
 		 */
-		List<Map<String, Object>> resultList = new ArrayList<Map<String, Object>>();
+		List<Map<String, Object>> resultList = new ArrayList<Map<String, Object>>(); //전역으로 빼면안댐. 검색초기화가안댐
 		try {
 			while(cursor.hasNext()){
-				Map<String, Object> map = new HashMap<String,Object>();
+				Map<String, Object> map = new HashMap<String,Object>(); //반복문 안에 없으면 새로운 데이터가 들어가질않음 
 				
 				//출력값 저장
 				Document document = cursor.next();
