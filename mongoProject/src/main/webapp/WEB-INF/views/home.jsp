@@ -148,7 +148,7 @@ $(function(){
 
 <body>
 <h1>
-	서울시 평균 운량 & 강수량 (2016.01 ~ 2018.12)
+	서울시 평균 운량 & 강수량 (2016.11.26 ~ 2019.1.3)
 </h1>
 
 <div style="padding-left: 100px; padding-bottom: 20px;">
@@ -157,7 +157,7 @@ $(function(){
 		<option value="11110">종로구</option>
 		<option value="11140">중구</option>
 		<option value="11170">용산구</option>
-		<option value="11230">동대문구</option>
+		<option value="11l230">동대문구</option>
 		<option value="11260">중랑구</option>
 		<option value="11290">성북구</option>
 		<option value="11320">도봉구</option>
@@ -181,7 +181,7 @@ $(function(){
 
 
 
-<div id="dualChart" style="border:1px gray solid; width: 1500px; height: 400px; margin-left: 100px;]]"></div>
+<div id="dualChart" style="border:1px gray solid; width: 1200px; height: 400px; margin-left: 100px;]]"></div>
 
 
 
